@@ -199,7 +199,7 @@ export default function Home() {
               style={{ display: 'flex', gap: '1.5rem', alignItems: 'center' }}
             >
               {[
-                { label: 'LinkedIn', url: 'https://linkedin.com/in/sameer-gupta' },
+                { label: 'LinkedIn', url: 'http://www.linkedin.com/in/sameer-gupta-02749828a' },
                 { label: 'LeetCode', url: 'https://leetcode.com/u/coder-sameergupta' },
                 { label: 'Email', url: 'mailto:sameergupta7906@gmail.com' },
               ].map(s => (

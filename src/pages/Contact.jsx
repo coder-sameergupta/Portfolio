@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 const contactLinks = [
   { icon: '✉', label: 'Email', value: 'sameergupta7906@gmail.com', href: 'mailto:sameergupta7906@gmail.com', accent: 'var(--accent-primary)' },
   { icon: 'GH', label: 'GitHub', value: 'github.com/coder-sameergupta', href: 'https://github.com/coder-sameergupta', accent: 'var(--text-secondary)' },
-  { icon: 'LI', label: 'LinkedIn', value: 'linkedin.com/in/sameer-gupta', href: 'https://linkedin.com/in/sameer-gupta', accent: 'var(--accent-blue)' },
+  { icon: 'LI', label: 'LinkedIn', value: 'http://www.linkedin.com/in/sameer-gupta-02749828a', href: 'https://linkedin.com/in/sameer-gupta', accent: 'var(--accent-blue)' },
   { icon: 'LC', label: 'LeetCode', value: 'leetcode.com/u/coder-sameergupta', href: 'https://leetcode.com/u/coder-sameergupta', accent: 'var(--accent-secondary)' },
   { icon: '📞', label: 'Phone', value: '+91-7906813895', href: 'tel:+917906813895', accent: '#34d399' },
 ]

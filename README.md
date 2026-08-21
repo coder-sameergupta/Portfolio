@@ -147,8 +147,8 @@ All content is in the page files. Update:
 ## 🔗 Links
 
 - GitHub: [github.com/coder-sameergupta](https://github.com/coder-sameergupta)
-- LinkedIn: [linkedin.com/in/sameer-gupta](https://linkedin.com/in/sameer-gupta)
-- LeetCode: [leetcode.com/u/coder-sameergupta](https://leetcode.com/u/coder-sameergupta)
+- LinkedIn: [linkedin.com/in/sameer-gupta-02749828a](https://linkedin.com/in/sameer-gupta)
+- LeetCode: [leetcode.com/u/coder-sameergupta](https://leetcode.com/u/coder-sameergupta-02749828a)
 
 ## 📄 License
 
