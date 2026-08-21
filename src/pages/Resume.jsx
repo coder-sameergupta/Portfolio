@@ -109,7 +109,7 @@ export default function Resume() {
                   { label: 'sameergupta7906@gmail.com', href: 'mailto:sameergupta7906@gmail.com' },
                   { label: '+91-7906813895', href: 'tel:+917906813895' },
                   { label: 'github.com/coder-sameergupta', href: 'https://github.com/coder-sameergupta' },
-                  { label: 'http://www.linkedin.com/in/sameer-gupta-02749828a', href: 'https://linkedin.com/in/sameer-gupta' },
+                  { label: 'linkedin.com/in/sameer-gupta', href: 'https://www.linkedin.com/in/sameer-gupta-02749828a/' },
                   { label: 'leetcode.com/u/coder-sameergupta', href: 'https://leetcode.com/u/coder-sameergupta' },
                 ].map(c => (
                   <a key={c.label} href={c.href} target="_blank" rel="noopener noreferrer"

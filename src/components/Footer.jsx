@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 const socials = [
   { label: 'GitHub', url: 'https://github.com/coder-sameergupta', icon: 'GH' },
-  { label: 'LinkedIn', url: 'http://www.linkedin.com/in/sameer-gupta-02749828a', icon: 'LI' },
+  { label: 'LinkedIn', url: 'https://www.linkedin.com/in/sameer-gupta-02749828a/', icon: 'LI' },
   { label: 'LeetCode', url: 'https://leetcode.com/u/coder-sameergupta', icon: 'LC' },
   { label: 'Email', url: 'mailto:sameergupta7906@gmail.com', icon: '✉' },
 ]
